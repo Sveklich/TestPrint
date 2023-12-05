@@ -1,0 +1,17 @@
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CopyComplete
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\volta\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
